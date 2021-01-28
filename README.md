@@ -12,10 +12,10 @@ extended: AI face detection and focus
 future: AI Facial Recognition   
 future: Recognise and Greet   
 future: Ignore photos and/or videos   
-   
+pytorch framework   
 ## Door Patrol Drone   
 mvp: lift off and land on landing pad   
 extended: lift off, circle and land when intruder is detected.   
-   
+djitello   
 ## Voice Control   
 mvp: Voice recognition - Open the damned door !   
